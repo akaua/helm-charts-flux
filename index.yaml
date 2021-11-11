@@ -1,11 +1,22 @@
 apiVersion: v1
 entries:
+  flux-sample-app-2-example:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-11-11T17:00:22.531699+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 2ff12f4d73a89e50fb0693f056e830ffeaeb32071a589d0d153e6a11240ec9ba
+    name: flux-sample-app-2-example
+    type: application
+    urls:
+    - https://akaua.github.io/helm-charts-flux/flux-sample-app-2-example-0.1.1.tgz
+    version: 0.1.1
   flux-sample-app-example:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-11-09T16:58:06.645403+01:00"
+    created: "2021-11-11T17:00:22.533924+01:00"
     description: A Helm chart for Kubernetes
-    digest: b69ad0e28afb872a1cb6d48a2a59c506fc91a8036fd934052192be12e3a00d20
+    digest: 47fbc05e87c9e72c984ef938f82415f74a2bd46acfaa46fcc7a11c5d829c08ed
     name: flux-sample-app-example
     type: application
     urls:
@@ -13,7 +24,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-11-09T16:58:06.644841+01:00"
+    created: "2021-11-11T17:00:22.532632+01:00"
     description: A Helm chart for Kubernetes
     digest: 07231262cfe1ec2df451de87a5444c1241d0ff8ec9ca7f9975581cda94cad0e4
     name: flux-sample-app-example
@@ -21,4 +32,4 @@ entries:
     urls:
     - https://akaua.github.io/helm-charts-flux/flux-sample-app-example-0.1.0.tgz
     version: 0.1.0
-generated: "2021-11-09T16:58:06.643276+01:00"
+generated: "2021-11-11T17:00:22.530991+01:00"
